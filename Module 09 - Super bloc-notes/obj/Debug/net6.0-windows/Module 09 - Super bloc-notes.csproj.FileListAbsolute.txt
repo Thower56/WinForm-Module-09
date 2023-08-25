@@ -1,0 +1,17 @@
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\bin\Debug\net6.0-windows\Module 09 - Super bloc-notes.exe
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\bin\Debug\net6.0-windows\Module 09 - Super bloc-notes.deps.json
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\bin\Debug\net6.0-windows\Module 09 - Super bloc-notes.runtimeconfig.json
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\bin\Debug\net6.0-windows\Module 09 - Super bloc-notes.dll
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\bin\Debug\net6.0-windows\Module 09 - Super bloc-notes.pdb
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.csproj.AssemblyReference.cache
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.csproj.GenerateResource.cache
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.AssemblyInfoInputs.cache
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.AssemblyInfo.cs
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.csproj.CoreCompileInputs.cache
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.dll
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\refint\Module 09 - Super bloc-notes.dll
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.pdb
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module 09 - Super bloc-notes.genruntimeconfig.cache
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\ref\Module 09 - Super bloc-notes.dll
+C:\Session3\Vs Studio\Module 09 - Super bloc-notes\Module 09 - Super bloc-notes\obj\Debug\net6.0-windows\Module_09___Super_bloc_notes.fPrincipale.resources
